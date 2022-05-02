@@ -7,4 +7,5 @@ if(a){
 }
 else{
    alert("You didn't give your name 😟");
+   b.innerText= "Hi There...";
 }
